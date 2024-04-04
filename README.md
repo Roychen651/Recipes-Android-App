@@ -1,4 +1,4 @@
-<img width="600px" height="500px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/logo%20.png"/>
+<img width="750px" height="550px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/logo%20.png"/>
 
 <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_104344.png"/><img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103020.png?raw=true"/> <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103044.png"/> <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103149.png"/>
 
