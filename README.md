@@ -1,3 +1,4 @@
+<img width="350px" height="350px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/logo%20.png"/>
 <img width="350px" height="350px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103020.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103044.png"/> <img width="350px" height="350px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103149.png"/> <img width="350px" height="350px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup.gif"/> 
 
 # Recipes Android App 🍽️
