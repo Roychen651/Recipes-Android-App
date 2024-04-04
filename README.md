@@ -10,7 +10,7 @@
   <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(2).gif"/>
 </div>
 
-# RecipesRoster - Android App 🍽️
+# RecipeRoster - Android App 🍽️
 
 Welcome to Recipes Android App! This application is designed to help you organize, store, and discover recipes conveniently on your Android device.
 
