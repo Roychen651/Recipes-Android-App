@@ -6,7 +6,7 @@ Welcome to my incredible portfolio! This showcase highlights my prowess, project
 
 ## Glimpses:
 
-<img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/5.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/6.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/7.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/8.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/9.png?raw=true"/>
+<img width="350px" height="350px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103020.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/6.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/7.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/8.png?raw=true"/> <img width="350px" height="350px" src="https://github.com/Roychen651/RoyChen-Portfolio-React/blob/main/9.png?raw=true"/>
 
 ## Contents Menu 📜
 - [Introduction](#introduction)
