@@ -1,13 +1,13 @@
-<img width="750px" height="550px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/logo%20.png"/>
+<img width="750px" height="550px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/logo%20.png"/>
 
-<img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_104344.png"/><img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103020.png?raw=true"/> <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103044.png"/> <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Screenshot_20240404_103149.png"/>
+<img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Screenshot_20240404_103020.png"/><img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Screenshot_20240404_103044.png"/> <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Screenshot_20240404_1031492.png"/> <img width="350px" height="400px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Screenshot_20240404_104344.png"/>
 
 <div style="text-align:center;">
-  <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(1).gif"/>
+  <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(1).gif"/>
 </div>
 
 <div style="text-align:center;">
-  <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(2).gif"/>
+  <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(2).gif"/>
 </div>
 
 # RecipeRoster - Android App 🍽️
